@@ -1,0 +1,16 @@
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.exe
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.deps.json
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.runtimeconfig.json
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.runtimeconfig.dev.json
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.dll
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\ref\exemploPraticoInstrucaoWhileAlinhada.dll
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\bin\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.pdb
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.csproj.AssemblyReference.cache
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.AssemblyInfoInputs.cache
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.AssemblyInfo.cs
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.dll
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\ref\exemploPraticoInstrucaoWhileAlinhada.dll
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.pdb
+C:\xampp\htdocs\exemploPraticoInstrucaoWhileAlinhada\obj\Debug\net5.0\exemploPraticoInstrucaoWhileAlinhada.genruntimeconfig.cache
